@@ -11,8 +11,8 @@ let s:bg = {}
 let s:bg.primary    = {'dark': '#161F2A', 'light': '#DEE8F1', 'mirage': '#2A3546'}[s:style]
 let s:bg.secondary  = {'dark': '#14191F', 'light': '#F0F0F0', 'mirage': '#232838'}[s:style]
 let s:bg.contrast   = {'dark': '#E6B450', 'light': '#FF9940', 'mirage': '#FFCC66'}[s:style]
-let s:bg.normal     = {'dark': '#01060E', 'light': '#D3D5D7', 'mirage': '#141925'}[s:style]
-let s:bg.insert     = {'dark': '#39BAE6', 'light': '#55B4D4', 'mirage': '#5CCFE6'}[s:style]
+let s:bg.normal     = {'dark': '#592E83', 'light': '#D3D5D7', 'mirage': '#141925'}[s:style]
+let s:bg.insert     = {'dark': '#19647E', 'light': '#55B4D4', 'mirage': '#5CCFE6'}[s:style]
 let s:bg.replace    = {'dark': '#FF8F40', 'light': '#FA8D3E', 'mirage': '#FFA759'}[s:style]
 let s:bg.visual     = {'dark': '#A37ACC', 'light': '#A37ACC', 'mirage': '#D4BFFF'}[s:style]
 
